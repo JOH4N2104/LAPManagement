@@ -73,4 +73,4 @@ class CategoriesController {
   }
 }
 
-omodule.exports = CategoriesController;
+module.exports = CategoriesController;
